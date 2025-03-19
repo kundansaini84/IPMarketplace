@@ -23,3 +23,9 @@ Future developments may include:
 - **Licensing System:** Buyers can pay the IP price to acquire a license from the seller securely via blockchain transactions.
 - **Secure Transactions:** Utilizes AptosCoin for secure and transparent payments.
 - **Decentralized Architecture:** Ensures the platform is resistant to censorship and unauthorized alterations.
+
+- ## Contract Address:
+- 0x7507c896457b9e40000d3296e747e0fffca0ad427a45cb7973ade332675b1881
+
+- ![WhatsApp Image 2025-03-19 at 12 19 52 PM (1)](https://github.com/user-attachments/assets/833644b3-05d5-4023-977c-dce34119ad81)
+
