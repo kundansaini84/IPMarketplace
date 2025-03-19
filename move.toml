@@ -1,0 +1,16 @@
+[package]
+name = "IPMarketplace"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x2e16ce677361c8ff8a9d616a09acce44173dbe37711d3dc20584d0be01b9c5b8"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
